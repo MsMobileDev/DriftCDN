@@ -1,0 +1,52 @@
+{
+  "videos": [
+    {
+      "path": "video/Rocks.mp4",
+      "md5": "d60747af375f33997f4af367da7b237f"
+    },
+    {
+      "path": "video/Birds.mp4",
+      "md5": "e93c2f2932a588e81d2b2c199679b287"
+    },
+    {
+      "path": "video/Rain.mp4",
+      "md5": "3add3009e200d283fe2d6e60834c14ce"
+    },
+    {
+      "path": "video/Trees.mp4",
+      "md5": "35f34b468a206294a688af4b55765da8"
+    },
+    {
+      "path": "video/Fire.mp4",
+      "md5": "51cf2a1b9891020ed8f561c5158e9c34"
+    }
+  ],
+  "audios": [
+    {
+      "path": "audio/Rocks.wav",
+      "md5": "0c149ec57afec9ba320160e8bef8cabc"
+    },
+    {
+      "path": "audio/Birds.wav",
+      "md5": "3b6ce4dd2f9d0e9fc9837c0130df0224"
+    },
+    {
+      "path": "audio/Rain.wav",
+      "md5": "92cfb4389b24882e377ef3d6264ffc4e"
+    },
+    {
+      "path": "audio/Trees.wav",
+      "md5": "7bd96fff9abe3add179d42697761b882"
+    },
+    {
+      "path": "audio/Fire.wav",
+      "md5": "40de53b49a274222e738835813018b5e"
+    }
+  ],
+  "voices": [
+    {
+      "path": "voice/voice.wav",
+      "md5": "18a55ffe34cef36fd5bcbb1700589b28"
+    }
+  ]
+}
