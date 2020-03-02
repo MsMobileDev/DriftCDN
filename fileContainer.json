@@ -1,52 +1,100 @@
 {
   "videos": [
     {
+      "id": "C362DD6B-2DFE-406E-8B9C-1ACC7ECD06E5",
       "path": "video/Rocks.mp4",
       "md5": "d60747af375f33997f4af367da7b237f"
     },
     {
+      "id": "00560744-0F25-424D-8AD8-8C31FE50129F",
       "path": "video/Birds.mp4",
       "md5": "e93c2f2932a588e81d2b2c199679b287"
     },
     {
+      "id": "9BF2F258-C9E6-42D2-8367-2A39BB0F604D",
       "path": "video/Rain.mp4",
       "md5": "3add3009e200d283fe2d6e60834c14ce"
     },
     {
+      "id": "15CE55A4-5204-42AE-A0EB-A0780D07B458",
       "path": "video/Trees.mp4",
       "md5": "35f34b468a206294a688af4b55765da8"
     },
     {
+      "id": "8F1506BA-FD41-4445-B6B2-194B9760DC82",
       "path": "video/Fire.mp4",
       "md5": "51cf2a1b9891020ed8f561c5158e9c34"
     }
   ],
   "audios": [
     {
+      "id": "40D36548-3F9F-41EA-ACEA-B49952ACAE30",
       "path": "audio/Rocks.wav",
       "md5": "0c149ec57afec9ba320160e8bef8cabc"
     },
     {
+      "id": "1FEBADA7-F04D-46FD-9C80-D160A9C344C7",
       "path": "audio/Birds.wav",
       "md5": "3b6ce4dd2f9d0e9fc9837c0130df0224"
     },
     {
+      "id": "C8D07130-7A90-4AEF-8499-8729C9D5535B",
       "path": "audio/Rain.wav",
       "md5": "92cfb4389b24882e377ef3d6264ffc4e"
     },
     {
+      "id": "8382E365-8162-4FF3-B5F0-5F0E4458C135",
       "path": "audio/Trees.wav",
       "md5": "7bd96fff9abe3add179d42697761b882"
     },
     {
+      "id": "5ECEC22A-AA71-4002-BA0D-75ED1B3E60BC",
       "path": "audio/Fire.wav",
       "md5": "40de53b49a274222e738835813018b5e"
     }
   ],
   "voices": [
     {
+      "id": "846F0540-A92D-4111-A072-BD5E840C5874",
       "path": "voice/voice.wav",
       "md5": "18a55ffe34cef36fd5bcbb1700589b28"
     }
-  ]
+  ],
+  "meditations": [
+    {
+      "id": "AA0B7574-37F5-45F4-86EE-ABF7D17E6D38",
+      "orderId": 0,
+      "videoId": "C362DD6B-2DFE-406E-8B9C-1ACC7ECD06E5",
+      "audioId": "40D36548-3F9F-41EA-ACEA-B49952ACAE30",
+      "voiceId": "846F0540-A92D-4111-A072-BD5E840C5874"
+    },
+    {
+      "id": "3C5781E1-9DAC-46A7-9981-13797DD21A29",
+      "orderId": 1,
+      "videoId": "00560744-0F25-424D-8AD8-8C31FE50129F",
+      "audioId": "1FEBADA7-F04D-46FD-9C80-D160A9C344C7",
+      "voiceId": "846F0540-A92D-4111-A072-BD5E840C5874"
+    },
+    {
+      "id": "88E6521D-AF3D-4A1C-85E7-1BF3072422A1",
+      "orderId": 2,
+      "videoId": "9BF2F258-C9E6-42D2-8367-2A39BB0F604D",
+      "audioId": "C8D07130-7A90-4AEF-8499-8729C9D5535B",
+      "voiceId": "846F0540-A92D-4111-A072-BD5E840C5874"
+    },
+    {
+      "id": "33F7232E-DEDD-4550-8138-99664835521A",
+      "orderId": 3,
+      "videoId": "15CE55A4-5204-42AE-A0EB-A0780D07B458",
+      "audioId": "8382E365-8162-4FF3-B5F0-5F0E4458C135",
+      "voiceId": "846F0540-A92D-4111-A072-BD5E840C5874"
+    },
+    {
+      "id": "BBDF35D0-F500-4335-AC0F-569F954F52ED",
+      "orderId": 4,
+      "videoId": "8F1506BA-FD41-4445-B6B2-194B9760DC82",
+      "audioId": "5ECEC22A-AA71-4002-BA0D-75ED1B3E60BC",
+      "voiceId": "846F0540-A92D-4111-A072-BD5E840C5874"
+    }
+    ]
 }
